@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NodeMCUProject.PcbDoc   15-08-2023  02:12:48
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NodeMCUProject.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      34mil (0.851mm)                                           Round             2         PTH        0.30inch (7.62mm)
+T2      35mil (0.889mm)                                           Round             30        PTH        4.60inch (116.84mm)
+T3      35mil (0.899mm)                                           Round             97        PTH        14.04inch (356.55mm)
+T4      39mil (1.001mm)                                           Round             4         PTH        1.98inch (50.26mm)
+T5      43mil (1.1mm)                                             Round             6         PTH        3.02inch (76.76mm)
+T6      118mil (3mm)                                              Round             2         PTH        3.62inch (91.83mm)
+T7      115mil (2.921mm)                                          Round             4         NPTH       3.35inch (85.20mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              145
+
+Total Processing Time (hh:mm:ss) : 00:00:01

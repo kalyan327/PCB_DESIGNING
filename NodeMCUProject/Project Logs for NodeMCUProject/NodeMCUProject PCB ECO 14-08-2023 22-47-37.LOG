@@ -1,0 +1,54 @@
+Added Component: Designator=P19(HDR1X15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P20(HDR1X15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CLK Pin=MD1-9
+Added Pin To Net: NetName=A0 Pin=P19-1
+Added Pin To Net: NetName=CLK Pin=P19-9
+Added Pin To Net: NetName=GND Pin=P19-10
+Added Pin To Net: NetName=3V3 Pin=P19-11
+Added Pin To Net: NetName=GND Pin=P19-14
+Added Pin To Net: NetName=+5 Pin=P19-15
+Added Pin To Net: NetName=D0 Pin=P20-1
+Added Pin To Net: NetName=SCL Pin=P20-2
+Added Pin To Net: NetName=SDA Pin=P20-3
+Added Pin To Net: NetName=D3 Pin=P20-4
+Added Pin To Net: NetName=D4 Pin=P20-5
+Added Pin To Net: NetName=3V3 Pin=P20-6
+Added Pin To Net: NetName=GND Pin=P20-7
+Added Pin To Net: NetName=CLK Pin=P20-8
+Added Pin To Net: NetName=MISO Pin=P20-9
+Added Pin To Net: NetName=MOSI Pin=P20-10
+Added Pin To Net: NetName=CS Pin=P20-11
+Added Pin To Net: NetName=RX Pin=P20-12
+Added Pin To Net: NetName=TX Pin=P20-13
+Added Pin To Net: NetName=GND Pin=P20-14
+Added Pin To Net: NetName=3V3 Pin=P20-15
+Added Pin To Net: NetName=CMD Pin=MD1-7
+Added Pin To Net: NetName=CMD Pin=P19-7
+Added Net: Name=CMD
+Added Pin To Net: NetName=EN Pin=MD1-12
+Added Pin To Net: NetName=EN Pin=P19-12
+Added Net: Name=EN
+Added Pin To Net: NetName=RST Pin=MD1-13
+Added Pin To Net: NetName=RST Pin=P19-13
+Added Net: Name=RST
+Added Pin To Net: NetName=SD0 Pin=MD1-8
+Added Pin To Net: NetName=SD0 Pin=P19-8
+Added Net: Name=SD0
+Added Pin To Net: NetName=SD1 Pin=MD1-6
+Added Pin To Net: NetName=SD1 Pin=P19-6
+Added Net: Name=SD1
+Added Pin To Net: NetName=SD2 Pin=MD1-5
+Added Pin To Net: NetName=SD2 Pin=P19-5
+Added Net: Name=SD2
+Added Pin To Net: NetName=SD3 Pin=MD1-4
+Added Pin To Net: NetName=SD3 Pin=P19-4
+Added Net: Name=SD3
+Added Member To Class: ClassName=NodeMCUProject Member=Component P19 Header 15
+Added Member To Class: ClassName=NodeMCUProject Member=Component P20 Header 15
+Added Room: Name=NodeMCUProject

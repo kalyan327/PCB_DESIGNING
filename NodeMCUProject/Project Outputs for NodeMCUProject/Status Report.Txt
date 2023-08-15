@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [NodeMCUProject.PrjPcb]
+   Generated File[NodeMCUProject.TXT]
+   Generated File[NodeMCUProject.LDP]
+   Generated File[NodeMCUProject.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 02:12:49 On 15-08-2023

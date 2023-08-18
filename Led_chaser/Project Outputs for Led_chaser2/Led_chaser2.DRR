@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Led_chaser2.PcbDoc   18-08-2023  15:28:02
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Led_chaser2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T2      0.711mm (28mil)                                           Round             4         PTH        211.61mm (8.33inch)
+T3      0.73mm (29mil)                                            Round             16        PTH        51.44mm (2.03inch)
+T4      0.75mm (30mil)                                            Round             17        PTH        304.80mm (12.00inch)
+T5      0.78mm (31mil)                                            Round             8         PTH        23.18mm (0.91inch)
+T6      0.8mm (31mil)                                             Round             6         PTH        55.97mm (2.20inch)
+T7      1mm (39mil)                                               Round             10        PTH        222.28mm (8.75inch)
+T8      1.15mm (45mil)                                            Round             2         PTH        2.54mm (0.10inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              64
+
+Total Processing Time (hh:mm:ss) : 00:00:00
